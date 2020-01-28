@@ -5,3 +5,5 @@ email: enrique@expertcollective.org
 description: > # this means to ignore newlines until "baseurl:"
   Expert Collective is dedicated to connecting Experts with people
   doing cutting edge work in their fields.
+
+show_excerpts: false 

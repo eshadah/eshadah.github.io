@@ -5,4 +5,5 @@
 >     2. : customary practice or conduct
 > 2. practical application of a theory.
 > _Mirriam-Webster Diccionary_
+
 ## We codify and package expert knowledge into easy-to-digest learning experiences for anyone who wants to apply what they learn.

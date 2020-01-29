@@ -8,14 +8,14 @@
 
 ## Apply what you learn through expert knowledge codified in easy-to-digest learning experiences.
 ---
-- ### Online Programs
+### Online Programs
   - Micro learning
   - Executive learning
   - Professional and technical learning
-- ### Blended Programs
+### Blended Programs
   - Blended bootcamps
   - Blended workshops
-- ### On-location Programs
+### On-location Programs
   - In-country intensive programs
   - Speeches and lectures
   - Client visits

@@ -1,23 +1,23 @@
 ## Digital Business Transformation Experts
 ### We help organizational leaders take control of digital disruption.
 ---
-- ### Blockchain
+### Blockchain
   - Use of public/private chains
   - Deployment of blockchain principles
   - Architecture of decentralized systems
-- ### Cyber security
+### Cyber security
   - Deterrants
   - Mitigation
   - Cyber-physical systems
-- ### Cloud computing
+### Cloud computing
   - Modularization
   - Serverless functions
   - RESTful business architecture
-- ### Data science
+### Data science
   - Big data
   - Geospacial data
   - Real-time data
-- ### Virtual and Augmented Reality (XR)
+### Virtual and Augmented Reality (XR)
   - Human-machine interface
   - Engagement and behavior change
   - Avatars and identity

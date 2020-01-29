@@ -1,6 +1,6 @@
 # Innovation Management
 ## Enabling new thinking that leads to breakthroughs.
----
+-----
 ### R&D Pipelines
 - Project identification and generation
 - Motivations and rewards for innovators

@@ -1,10 +1,10 @@
 # Praxis
-> Praxis noun _formal_
+> Praxis noun _formal_  
 > 1. action, practice: such as
 >     1. : exercise or practice of an art, science, or skill
->     2. : customary practice or conduct
+>     2. : customary practice or conduct  
 > 2. practical application of a theory.  
-> _Mirriam-Webster Diccionary_
+>_Mirriam-Webster Diccionary_
 
 ## Apply what you learn through expert knowledge codified in easy-to-digest learning experiences.
 ---

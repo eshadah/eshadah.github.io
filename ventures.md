@@ -1,8 +1,7 @@
 # Ventures
 ## We bring capital and expert support for people who want to transform their knowledge into new enterprises.
 ---
-*Projects*
----
+## *Projects*  
 - ### Forever Bike Repair  
   - Stage: Idea
   - Description: We are disrupting how people buy bike repair services, by eliminating uncertainty about labor costs.
@@ -22,8 +21,7 @@
   - Stage: Startup
   - Description: Volute commercializes their patented workflow technology to help business visualize key management processes in their organizations.
 ---
-*Approach*
----
+## *Approach*  
 ### We build founding teams and support them with advice and capital.  
 Our process is as follows:
 1. *Identify unique insight*

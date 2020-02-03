@@ -1,7 +1,3 @@
-<style>
-  <link type="text/css" rel="stylesheet" href="assets/css/main.css" />
-</style>
-
 <div class="topnav">
   <a class="active" href="#/index.md">Home</a>
   <a href="#/advisory.md">Advisory</a>
